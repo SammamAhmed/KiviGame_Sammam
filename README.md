@@ -1,4 +1,4 @@
-##KiviGame
-*As per course regulation, I cannot upload the raw code. Simply downloading and running the .jar file will run the game**
+# KiviGame
+## *As per course regulation, I cannot upload the raw code. Simply downloading and running the .jar file will run the game*
 
 A Java Swing implementation of the Kivi dice/placement game: roll 6 dice (up to 3 times), match combinations printed on a 7×7 board, and place one of your limited stones to score points. Supports 2–4 players with human/CPU mix, animated bobblehead avatars, turn timer, and color‑blind display modes. Modular code (dice, placement, settings) makes it easy to extend with smarter AI or saving.
