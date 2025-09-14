@@ -1,4 +1,1 @@
-# About my first group project
-
-This game was made for one of my university courses, "Software Engineering." This was by far my favorite course because it allowed me to relate my academic life to a potential real-life career. 
-The game can be played with 2/3/4 players or AI with two difficulty options. It has multiple settings including accessibility enabled feature
+A Java Swing implementation of the Kivi dice/placement game: roll 6 dice (up to 3 times), match combinations printed on a 7×7 board, and place one of your limited stones to score points. Supports 2–4 players with human/CPU mix, animated bobblehead avatars, turn timer, and color‑blind display modes. Modular code (dice, placement, settings) makes it easy to extend with smarter AI or saving.
